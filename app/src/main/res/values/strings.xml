@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mylab4</string>
+    <string name="wrongpassword">Password should be at least 6 character</string>
+    <string name="passwordisnotcorrect">Password does not match</string>
+    <string name="links"><a href="https://www.google.com">Visit us </a></string>
+
+</resources>
